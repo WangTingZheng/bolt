@@ -1,4 +1,4 @@
-package bolt
+package main
 
 const (
 	ps_modify   = 1

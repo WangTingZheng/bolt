@@ -1,4 +1,4 @@
-package bolt
+package main
 
 import (
 	"github.com/stretchr/testify/mock"

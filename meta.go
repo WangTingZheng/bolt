@@ -1,4 +1,4 @@
-package bolt
+package main
 
 const magic uint32 = 0xDEADC0DE
 

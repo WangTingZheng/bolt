@@ -1,4 +1,4 @@
-package bolt
+package main
 
 type Bucket struct {
 	*bucket

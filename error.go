@@ -1,4 +1,4 @@
-package bolt
+package main
 
 var (
 	InvalidError               = &Error{"Invalid database", nil}

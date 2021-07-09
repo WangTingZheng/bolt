@@ -1,3 +1,3 @@
-package bolt
+package main
 
 // TODO(benbjohnson)
